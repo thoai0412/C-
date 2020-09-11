@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viết phương trình giải phương trình bậc 1", "Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1.csproj", "{C66ADD00-99C7-41FC-884A-3244C72AF097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66ADD00-99C7-41FC-884A-3244C72AF097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66ADD00-99C7-41FC-884A-3244C72AF097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66ADD00-99C7-41FC-884A-3244C72AF097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66ADD00-99C7-41FC-884A-3244C72AF097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69AB86E9-D5F5-42F9-AA15-60E81763F53A}
+	EndGlobalSection
+EndGlobal

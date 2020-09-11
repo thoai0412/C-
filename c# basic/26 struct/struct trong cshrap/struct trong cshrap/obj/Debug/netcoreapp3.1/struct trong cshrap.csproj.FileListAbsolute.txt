@@ -1,0 +1,4 @@
+C:\Users\OS\Desktop\c#\c# basic\26 struct\struct trong cshrap\struct trong cshrap\obj\Debug\netcoreapp3.1\struct trong cshrap.csprojAssemblyReference.cache
+C:\Users\OS\Desktop\c#\c# basic\26 struct\struct trong cshrap\struct trong cshrap\obj\Debug\netcoreapp3.1\struct trong cshrap.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\26 struct\struct trong cshrap\struct trong cshrap\obj\Debug\netcoreapp3.1\struct trong cshrap.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\26 struct\struct trong cshrap\struct trong cshrap\obj\Debug\netcoreapp3.1\struct trong cshrap.AssemblyInfo.cs

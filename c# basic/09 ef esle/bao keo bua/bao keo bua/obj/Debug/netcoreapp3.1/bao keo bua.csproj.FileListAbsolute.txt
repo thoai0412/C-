@@ -1,0 +1,13 @@
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\bin\Debug\netcoreapp3.1\bao keo bua.exe
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\bin\Debug\netcoreapp3.1\bao keo bua.deps.json
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\bin\Debug\netcoreapp3.1\bao keo bua.runtimeconfig.json
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\bin\Debug\netcoreapp3.1\bao keo bua.runtimeconfig.dev.json
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\bin\Debug\netcoreapp3.1\bao keo bua.dll
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\bin\Debug\netcoreapp3.1\bao keo bua.pdb
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\obj\Debug\netcoreapp3.1\bao keo bua.csprojAssemblyReference.cache
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\obj\Debug\netcoreapp3.1\bao keo bua.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\obj\Debug\netcoreapp3.1\bao keo bua.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\obj\Debug\netcoreapp3.1\bao keo bua.AssemblyInfo.cs
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\obj\Debug\netcoreapp3.1\bao keo bua.dll
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\obj\Debug\netcoreapp3.1\bao keo bua.pdb
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\bao keo bua\bao keo bua\obj\Debug\netcoreapp3.1\bao keo bua.genruntimeconfig.cache

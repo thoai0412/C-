@@ -1,0 +1,12 @@
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\bin\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.exe
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\bin\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.deps.json
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\bin\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.runtimeconfig.json
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\bin\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.runtimeconfig.dev.json
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\bin\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.dll
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\bin\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.pdb
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\obj\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\obj\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\obj\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.AssemblyInfo.cs
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\obj\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.dll
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\obj\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.pdb
+C:\Users\OS\Desktop\c#\c# basic\09 ef esle\Viết phương trình giải phương trình bậc 1\Viết phương trình giải phương trình bậc 1\obj\Debug\netcoreapp3.1\Viết phương trình giải phương trình bậc 1.genruntimeconfig.cache

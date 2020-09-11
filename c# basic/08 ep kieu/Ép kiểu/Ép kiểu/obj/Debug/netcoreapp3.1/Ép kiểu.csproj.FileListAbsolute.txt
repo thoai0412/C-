@@ -1,0 +1,13 @@
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\bin\Debug\netcoreapp3.1\Ép kiểu.exe
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\bin\Debug\netcoreapp3.1\Ép kiểu.deps.json
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\bin\Debug\netcoreapp3.1\Ép kiểu.runtimeconfig.json
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\bin\Debug\netcoreapp3.1\Ép kiểu.runtimeconfig.dev.json
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\bin\Debug\netcoreapp3.1\Ép kiểu.dll
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\bin\Debug\netcoreapp3.1\Ép kiểu.pdb
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\obj\Debug\netcoreapp3.1\Ép kiểu.csprojAssemblyReference.cache
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\obj\Debug\netcoreapp3.1\Ép kiểu.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\obj\Debug\netcoreapp3.1\Ép kiểu.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\obj\Debug\netcoreapp3.1\Ép kiểu.AssemblyInfo.cs
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\obj\Debug\netcoreapp3.1\Ép kiểu.dll
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\obj\Debug\netcoreapp3.1\Ép kiểu.pdb
+C:\Users\OS\Desktop\c#\c# basic\08 ep kieu\Ép kiểu\Ép kiểu\obj\Debug\netcoreapp3.1\Ép kiểu.genruntimeconfig.cache
